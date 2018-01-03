@@ -25,7 +25,8 @@ module.exports = {
         lid: 'span[name="lidHeader"]',
         blob: 'span[name="queryBody"]',
         text: 'span[name="queryTitle"]',
-        error: 'h4[id="vaildHeader"]'
+        error: 'h4[id="vaildHeader"]',
+        errorList: 'ul[id="errorList"]'
     },
     enterWantedInputs: {
         header: 'input[name="hdrInput"]',
